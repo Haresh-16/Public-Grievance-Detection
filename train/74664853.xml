@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>74664853.jpg</filename>
+	<path>C:\Users\Anirudh\Desktop\ssd_keras-master\GR\data\train\74664853.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>open manhole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>172</ymin>
+			<xmax>336</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

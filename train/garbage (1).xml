@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>garbage (1).jpg</filename>
+	<path>C:\Users\Anirudh\Desktop\ssd_keras-master\GR\data\train\garbage (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>overflowing garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>76</ymin>
+			<xmax>246</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>overflowing garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>75</ymin>
+			<xmax>335</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>patch2.jpg</filename>
+	<path>C:\Users\Anirudh\Desktop\ssd_keras-master\GR\data\train\patch2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>patchy roads</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>92</ymin>
+			<xmax>345</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>patchy roads</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>18</ymin>
+			<xmax>227</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,79 @@
+filename,xmin,ymin,xmax,ymax,class
+garbage (170).jpg,120,82,305,273,4
+garbage (171).jpg,89,75,229,227,4
+garbage (172).jpg,42,148,295,269,4
+garbage (173).jpg,249,111,387,253,4
+garbage (175).jpg,86,60,262,293,4
+garbage (176).jpg,71,69,216,246,4
+garbage (177).jpg,11,63,202,278,4
+garbage (178).jpg,138,52,250,229,4
+garbage (178).jpg,262,52,426,247,4
+images109.jpg,18,173,207,277,2
+images109.jpg,233,182,384,289,2
+images124.jpg,29,188,259,240,2
+images172.jpg,33,136,309,247,2
+images172.jpg,322,106,471,145,2
+images173.jpg,97,89,339,291,2
+images186.jpg,293,113,413,242,2
+images187.jpg,23,148,232,263,2
+images305.jpg,234,77,370,214,2
+images316.jpg,19,177,185,284,2
+images316.jpg,334,106,444,162,2
+images331.jpg,37,195,314,293,2
+images331.jpg,377,167,465,252,2
+images334.jpg,11,177,202,296,2
+images76.jpg,209,53,302,161,2
+images76.jpg,29,104,140,207,2
+images97.jpg,355,91,456,144,2
+images98.jpg,24,37,409,251,2
+manholes (57).jpg,51,86,401,219,1
+manholes (58).jpg,118,61,338,169,1
+manholes (59).jpg,27,3,368,300,1
+manholes (6).jpg,168,153,311,270,1
+manholes (60).jpg,89,55,303,241,1
+manholes (61).jpg,51,32,325,285,1
+manholes (62).jpg,84,121,258,217,1
+manholes (63).jpg,27,63,286,151,1
+manholes (64).jpg,181,90,385,239,1
+manholes (65).jpg,56,167,452,295,1
+manholes (66).jpg,175,179,289,227,1
+manholes (67).jpg,99,11,418,205,1
+manholes (68).jpg,117,119,315,222,1
+manholes (69).jpg,95,52,440,230,1
+manholes (7).jpg,143,52,407,172,1
+manholes (70).jpg,253,47,406,146,1
+manholes (71).jpg,266,132,425,257,1
+manholes (73).jpg,213,58,432,237,1
+manholes (74).jpg,202,9,478,262,1
+manholes (8).jpg,166,128,383,249,1
+manholes (9).jpg,172,73,447,283,1
+patchy (79).jpg,103,100,447,233,5
+patchy (80).jpg,152,99,377,248,5
+patchy (81).jpg,186,60,343,284,5
+patchy (83).jpg,99,171,369,277,5
+patchy (83).jpg,257,77,432,162,5
+patchy (88).jpg,148,69,293,199,5
+patchy (88).jpg,308,177,429,300,5
+patchy (90).jpg,50,75,374,232,5
+patchy (91).jpg,88,88,326,242,5
+patchy (92).jpg,71,22,406,268,5
+prop_man (67).jpg,14,9,472,277,6
+prop_man (68).jpg,18,3,480,292,6
+prop_man (69).jpg,3,2,480,296,6
+prop_man (70).jpg,4,1,480,296,6
+prop_man (71).jpg,3,2,480,299,6
+prop_man (72).jpg,1,1,480,298,6
+prop_man (73).jpg,3,6,468,293,6
+prop_man (74).jpg,2,3,472,296,6
+prop_road104.jpg,7,1,476,297,3
+prop_road105.jpg,1,7,478,299,3
+prop_road106.jpg,2,1,472,297,3
+prop_road107.jpg,1,1,475,297,3
+prop_road109.jpg,2,1,476,297,3
+prop_road112.jpg,3,1,476,299,3
+prop_road113.jpg,1,1,478,298,3
+prop_road114.jpg,1,2,477,297,3
+prop_road115.jpg,1,1,478,298,3
+prop_road117.jpg,4,1,479,299,3
+prop_road118.jpg,1,1,478,297,3
+prop_road121.jpg,1,3,479,299,3

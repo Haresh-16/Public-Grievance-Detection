@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>roads (40).jpg</filename>
+	<path>C:\Users\Anirudh\Desktop\ssd_keras-master\GR\data\train\roads (40).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Proper road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>3</ymin>
+			<xmax>458</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>val</folder>
+	<filename>images172.jpg</filename>
+	<path>C:\Users\Anirudh\Desktop\ssd_keras-master\GR\data\val\images172.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Proper road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>136</ymin>
+			<xmax>309</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Proper road</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>106</ymin>
+			<xmax>471</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

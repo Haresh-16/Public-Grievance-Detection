@@ -15,17 +15,29 @@
 
 - Please contribute to the dataset by adding any image of the public grievance from below categories:
 
-  -Overflowing garbage
+  ***Overflowing garbage***
   
-  -Patchy roads
+  [![Overflowing Garbage](https://github.com/Haresh-16/Public-Grievance-Detection/blob/master/train/garbage%20(103).jpg)]()
   
-  -Open manhole
+  ***Patchy roads***
   
-  -Proper manhole
+  [![Patchy roads](https://github.com/Haresh-16/Public-Grievance-Detection/blob/master/train/patchy%20(53).jpg)]()
   
-  -Proper garbage bin
+  ***Open manhole***
   
-  -Proper road 
+  [![Open manhole](https://github.com/Haresh-16/Public-Grievance-Detection/blob/master/train/manholes%20(23).jpg)]()
+  
+  ***Proper manhole***
+  
+  [![Proper manhole](https://github.com/Haresh-16/Public-Grievance-Detection/blob/master/train/prop_man%20(3).jpg)]()
+ 
+  ***Proper garbage bin***
+  
+  [![Proper garbage bin](https://github.com/Haresh-16/Public-Grievance-Detection/blob/master/train/prop_road43.jpg)]()
+  
+  ***Proper road***
+  
+  [![Proper road](https://github.com/Haresh-16/Public-Grievance-Detection/blob/master/train/roads%20(11).jpg)]()
   
 - The Proper manhole , Proper garbage bin and Proper roads are examples of proper facilities which will be helpful for authorities
   automatic detection of a redressed issue

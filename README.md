@@ -11,6 +11,11 @@
 - [Python](https://www.python.org/)
 - [Keras API](https://keras.io/)
 
+### Getting started
+
+- ssd7_training.py has the code where the
+  ***training*** and ***inference*** is done.
+
 ### Dataset
 
 - Please contribute to the dataset by adding any image of the public grievance from below categories:
